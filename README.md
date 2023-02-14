@@ -18,9 +18,6 @@ I'm a 15 year old developer from the netherlands.<br>Im currently working on my 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kaytitulaer3820&icon=5&color=12)](https://visitcount.itsvg.in)
 
