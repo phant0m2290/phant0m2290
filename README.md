@@ -21,4 +21,4 @@ I'm a 15 year old developer from the netherlands.<br>Im currently working on my 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaytitulaer3820&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I3IRHIU)
